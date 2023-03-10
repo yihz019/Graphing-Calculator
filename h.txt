@@ -1,0 +1,17 @@
+x*sin(x)
+cos(1/x)
+log(x)
+tan(x)+sec(x)^2+csc(20*x+pi/2)
+x^5x^2*(x+2)^2*(x-4)
+sin(x)+(cos(x))^2
+sin(x)+(cos(x))^2+sin(200*x+pi)
+tan(csc(sin(x*pi)))
+tan(x)*x+pi
+
+y=x
+1/sin(x)
+sin(1/x)
+cos(1/x^2)
+sin(1/x)
+y=x
+sin(x)+cos(x)

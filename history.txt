@@ -1,0 +1,4 @@
+sin(x)+cos(x)^2+sin(200*x+pi)
+
+
+
