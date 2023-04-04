@@ -4,7 +4,6 @@
 ## Name: <ins> Yi Zhuang </ins>
 
 ## Features:
-<br><br>
 - Implemented:
   - User input equations (trig, polynomial, log) from the interface.
   - Zoom in and out (keyboard or mousewheel)
