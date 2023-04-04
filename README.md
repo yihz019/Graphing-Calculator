@@ -4,6 +4,17 @@
 ## Name: <ins> Yi Zhuang </ins>
 
 ## Features:
+<br><br>
+- Implemented:
+  - User input equations (trig, polynomial, log) from the interface.
+  - Zoom in and out (keyboard or mousewheel)
+  - Pan up, down, left, right (keyboard arrows)
+  - History is displayed on the sidebar
+  - Clickable items in history & equations will be graphed once clicked 
+  - Save history upon exiting the program or when "save" command is issued
+  - Load history upon entry to the program
+  - "reset" command will take user to default domain, equation, and places origin at center of work area.
+<br><br>
 
 - Not Implemented:
   - Polar coords
@@ -12,30 +23,12 @@
   - Mouse interface: drag
   - Right click 
   - Additional functions
+  - Light & Dark mode
+
 
 <br><br>
 
-- Implemented:
-  - User input equations (trig, polynomial, log) from the interface.
-  - Zoom in and out (keyboard or mousewheel)
-  - Pan up, down, left, right (keyboard arrows)
-  - History is displayed on the sidebar
-  - Click items in history & equation will be graphed again 
-  - Save history upon exiting the program or when "save" command is   issued
-  - Load history upon entry to the program
-  - "reset" command will take user to default domain and places origin at center of work area.
 
-<br><br>
-
-- Partly implemented:
-  - 
-
-<br><br>
-
-- Bugs
-  -
-
-<br><br>
 
 # Reflections:
 
