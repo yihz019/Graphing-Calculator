@@ -33,7 +33,7 @@
 
 - 
 
-# **output**
+# **Output**
 ![output](gif.gif)
 
 
