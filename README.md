@@ -34,10 +34,7 @@
 - 
 
 # **output**
-<pre>
-Output Gif
-</pre>
-![](gif.gif)
+![output](gif.gif)
 
 
 <br/><br/>
