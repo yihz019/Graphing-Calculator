@@ -34,11 +34,8 @@
 - 
 
 # **output**
-![Output](https://user-images.githubusercontent.com/93494138/224225831-03d2ec71-78fa-42d7-abbb-efff3d5200d6.png)
 <pre>
-<br/><br/>
 Output Gif
-<br/><br/>
 </pre>
 ![](gif.gif)
 
