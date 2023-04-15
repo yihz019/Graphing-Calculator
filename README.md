@@ -28,24 +28,9 @@
 <br><br>
 
 
-
-# Reflections:
-
-- 
-
 # **Output**
 ![output](gif.gif)
 
 
-<br/><br/>
-
-# basic_test.cpp output:
-<pre>
-<br/><br/><br/><br/>
-</pre>
-# testB.cpp output:
-<pre>
-<br/><br/><br/><br/>
-</pre>
 
 
