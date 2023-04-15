@@ -1,6 +1,6 @@
 
 # Work Report
-
+# Graphing Calculator
 ## Name: <ins> Yi Zhuang </ins>
 
 ## Features:
